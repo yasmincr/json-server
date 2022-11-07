@@ -1,0 +1,75 @@
+{
+  "Hamburgers": [
+     {
+        "id": 1,
+        "nome": "Big Burguer",
+        "desc": "Pão de Brioche, Blend Bovino 180g, Queijo, Maionese Especial.",
+        "preço": 15.90,
+        "imagem": "https://storage.googleapis.com/grandchef-apps/gc12435/images/products/6338491029b5e.jpg"
+
+     },
+
+     {
+        "id": 2,
+        "nome": "Big Cheddar Bacon",
+        "desc": "Pão Brioche, Blend Bovino 180g, Queijo Cheddar e Bacon.",
+        "preço": 24.90,
+        "imagem": "https://storage.googleapis.com/grandchef-apps/gc12435/images/products/633849301413d.jpg"
+
+     },
+
+     {
+      "id": 3,
+      "nome":"Big Kelly Furioso",
+      "desc": "Pão Brioche, Blend Bovino 180g, Queijo Padrão, Geléia de Pimenta, Salada e Maionese Especial.",
+      "preço": 20.90,
+      "imagem": "https://storage.googleapis.com/grandchef-apps/gc12435/images/products/633848eda8bbe.jpg"
+      
+     },
+
+     {
+      "id": 4,
+      "nome": "Big Onion",
+      "desc": "Pão de Brioche, Blend Bovino 180g, Queijo Mussarela, Bacon, Onion, Salada e Maionese Especial.",
+      "preço": 22.90,
+      "imagem": "https://storage.googleapis.com/grandchef-apps/gc12435/images/products/633848d26d92e.jpg"
+     },
+
+     {
+      "id": 5,
+      "nome": "Duplo Cheddar Bacon",
+      "desc": "Pão Brioche, 2 Blend Bovino 180g, Queijo Cheddar, Bacon e Maionese Especial.",
+      "preço": 28.90,
+      "imagem": "https://storage.googleapis.com/grandchef-apps/gc12435/images/products/633849481e846.jpg"
+     }
+
+  ],
+
+  "Entradas": [
+   {
+      "id": 1,
+      "nome": "Batata Furiosa",
+      "desc": "Palito ou Rústica com Ketchup e Baconese",
+      "preço": 29.90,
+      "imagem": "https://storage.googleapis.com/grandchef-apps/gc12435/images/products/6328ba82f0679.jpg"
+   },
+
+   {
+      "id": 2,
+      "nome": "Bolinho de Bacalhau",
+      "desc": "Porção com 10 Unidades",
+      "preço": 22.90,
+      "imagem": "https://storage.googleapis.com/grandchef-apps/gc12435/images/products/6328baad3d1a8.jpg"
+   },
+
+   {
+      "id": 3,
+      "nome": "Cebola Onion",
+      "desc": "Porção com 10 Unidades acompanhada com Ketchup"
+   
+   }
+   
+  ]
+
+}
+
